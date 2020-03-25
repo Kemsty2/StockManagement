@@ -1,0 +1,12 @@
+C:\Code\StockManagement\StockManagement.Service\bin\Debug\netcoreapp3.1\StockManagement.Service.deps.json
+C:\Code\StockManagement\StockManagement.Service\bin\Debug\netcoreapp3.1\StockManagement.Service.dll
+C:\Code\StockManagement\StockManagement.Service\bin\Debug\netcoreapp3.1\StockManagement.Service.pdb
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.csprojAssemblyReference.cache
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.csproj.CoreCompileInputs.cache
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.AssemblyInfoInputs.cache
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.AssemblyInfo.cs
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.dll
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.pdb
+C:\Code\StockManagement\StockManagement.Service\bin\Debug\netcoreapp3.1\StockManagement.Repository.dll
+C:\Code\StockManagement\StockManagement.Service\bin\Debug\netcoreapp3.1\StockManagement.Repository.pdb
+C:\Code\StockManagement\StockManagement.Service\obj\Debug\netcoreapp3.1\StockManagement.Service.csproj.CopyComplete
